@@ -12,4 +12,4 @@ comportamento é desligado. Para reativar esse comportamento, o sistema tem de e
 
 A função `somador_on_off` implementa a lógica descrita acima. Ela lê um texto de entrada e processa-o conforme as regras especificadas, somando sequências de dígitos e controlando o comportamento com as strings "Off" e "On".
 
-Estando com o terminal no mesmo sítio do repositório, podemos usar o comando **python TPC1.py < input.txt** para que o texto utilizado seja o texto presente no ficheiro `input.txt`.
+Estando com o terminal no mesmo sítio do repositório, podemos usar o comando **python TPC1.py < input.txt** para que o texto utilizado seja o texto presente no ficheiro [input.txt](/TPC1/input.txt).
