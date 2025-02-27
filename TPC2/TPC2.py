@@ -16,7 +16,6 @@ def dataset_musica():
     period_distribution = {}
     period_titles = {}
 
-    # Process each row
     for row in rows:
         # Usa expressões regulares para separar os campos, ignorando os pontos e vírgulas dentro de aspas
         columns = re.split(r';(?=(?:[^"]*"[^"]*")*[^"]*$)', row)
